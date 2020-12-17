@@ -1,5 +1,6 @@
 {
   "name": "proville-brand",
+  "author": "Bosun Babatunde",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
